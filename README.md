@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**cmaliwal/cmaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on: As a remote contractor, I am currently working on a full-stack web development project using React, Node.js, and MongoDB. The project involves designing and implementing new features, optimizing the codebase, and ensuring the scalability and performance of the application.
 
 - 🌱 I’m currently learning: I am always on the lookout for new technologies to learn and stay up-to-date with the latest developments in the software industry. Currently, I am learning more about cloud computing, serverless architecture, and containerization using technologies such as AWS, Docker, and Kubernetes.
@@ -18,4 +15,3 @@
 - 😄 Pronouns: He/him
 
 - ⚡ Fun fact: In my free time, I enjoy reading science fiction novels and exploring new cuisines. I am also an avid fan of cricket and enjoy playing the sport with my friends and colleagues.
--->
