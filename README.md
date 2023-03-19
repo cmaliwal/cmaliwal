@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: As a remote contractor, I am currently working on a full-stack web development project using React, Node.js, and MongoDB. The project involves designing and implementing new features, optimizing the codebase, and ensuring the scalability and performance of the application.
+- 🔭 I’m currently working on: As a remote contractor, I am currently working as a Senior Full Stack Software Developer. The project involves designing and implementing new features, optimizing the codebase, and ensuring the scalability and performance of the application.
 
 - 🌱 I’m currently learning: I am always on the lookout for new technologies to learn and stay up-to-date with the latest developments in the software industry. Currently, I am learning more about cloud computing, serverless architecture, and containerization using technologies such as AWS, Docker, and Kubernetes.
 
@@ -8,9 +8,9 @@
 
 - 🤔 I’m looking for help with: While I am confident in my abilities, I am always open to learning from others and seeking help when needed. Currently, I am looking for help in mastering advanced data structures and algorithms and improving my understanding of system design principles.
 
-- 💬 Ask me about: I have a wide range of expertise in full-stack web development, including front-end technologies such as React and Angular, back-end frameworks such as Node.js and Django, and database technologies such as MongoDB and MySQL. I am also familiar with blockchain technology and its various applications.
+- 💬 Ask me about: I have a wide range of expertise in full-stack web development, including front-end technologies such as React and Vue, back-end frameworks such as Node.js and Django, and database technologies such as MongoDB and MySQL. I am also familiar with blockchain technology and its various applications.
 
-- 📫 How to reach me: You can reach me through my LinkedIn profile or email me directly at chiragmaliwal1995@gmail.com. I am always available to discuss exciting new opportunities or collaborate on projects.
+- 📫 How to reach me: You can reach me through my LinkedIn profile or email me directly at chiragmaliwal1995@gmail.com. I am always available to discuss exciting new opportunities or collaborate on projects. I believe that my zeal for programming, dedication to learning, and unparalleled work ethic make me an invaluable addition to any team or project. If you're looking for a senior full stack software developer who is passionate, honest, and committed to delivering exceptional results, then look no further!
 
 - 😄 Pronouns: He/him
 
